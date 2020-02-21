@@ -1,1 +1,2 @@
 # tiagopessetti
+git init
